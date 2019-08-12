@@ -1,7 +1,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 int o_40358de791114e16a7f8fb5bdb71ce6b;
-int foo(int o_1c19674cb58b26c4e9294508f3539fde){
+int foo(int var){
 int o_43d05a69bccd217874b9795f294d2ad3=7.6 * 8.0;
 _Bool o_c39b0453430d46d19075f364b3a82fc9=true;
 while (!o_c39b0453430d46d19075f364b3a82fc9){
